@@ -1,5 +1,5 @@
 # About Me
-I'm a 2nd year BSc Computer Science student at Royal Holloway University of London. I've been programming as a hobby for a few years, I post most of my personal projects on here. I'm aiming to get into a HFT company or a big tech company (FAANG) when I finish my course; I'm interested in software engineering, finance and low level programming.
+I'm a 2nd year BSc Computer Science student at Royal Holloway University of London. I've been programming as a hobby for a few years, I post most of my personal projects on here. I'm aiming to get into a HFT company or a big tech company (like FAANG) when I finish my course; I'm interested in software engineering, finance and low level programming.
 
 I like to maintain a diverse range of projects that interest and challenge me. Below you can find some of my favorite projects.
 
